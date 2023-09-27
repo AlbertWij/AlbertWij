@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertWij
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ Language
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on Professional Programmer
 - 📫 How to reach me albertwijaya6@gmail.com
 
